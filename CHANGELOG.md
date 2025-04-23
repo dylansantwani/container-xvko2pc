@@ -1,3 +1,15 @@
+# v0.0.2 (Wed Apr 23 2025)
+
+#### ⚠️ Pushed to `main`
+
+- add ([@dylansantwani](https://github.com/dylansantwani))
+
+#### Authors: 1
+
+- Dylan ([@dylansantwani](https://github.com/dylansantwani))
+
+---
+
 # v0.0.1 (Wed Apr 23 2025)
 
 :tada: This release contains work from a new contributor! :tada:
